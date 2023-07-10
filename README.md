@@ -1,4 +1,4 @@
-This code appears to be a program that takes user input in the form of a search query, searches for relevant problems in a file, and provides solutions to the most relevant problem based on the search results.
+This is a program that takes user input in the form of a search query, searches for relevant problems in a file, and provides solutions to the most relevant problem based on the search results.
 
 1. The code defines two classes: 'Generic_Problem' and 'Solutions'. Solutions inherits from Problems.
 2. The 'Problems' class has a member function 'differentProblems()' that prompts the user to enter a search query and returns the user's input as a string.
